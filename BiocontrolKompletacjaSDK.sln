@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiocontrolKompletacjaSDK", "BiocontrolKompletacjaSDK\BiocontrolKompletacjaSDK.csproj", "{78CFC467-BBEB-4562-924E-77BA75062606}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0E751545-D4BF-496D-98B9-CA2FC9D9C9A5}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiocontrolKompletacjaSDK.UI", "BiocontrolKompletacjaSDK.UI\BiocontrolKompletacjaSDK.UI.csproj", "{799DE340-3C8E-489F-A805-DB0891390594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiocontrolKompletacjaSDK.Tests", "BiocontrolKompletacjaSDK.Tests\BiocontrolKompletacjaSDK.Tests.csproj", "{9A6A0DA6-614F-43C0-A777-9ABC2511C128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78CFC467-BBEB-4562-924E-77BA75062606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CFC467-BBEB-4562-924E-77BA75062606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CFC467-BBEB-4562-924E-77BA75062606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CFC467-BBEB-4562-924E-77BA75062606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799DE340-3C8E-489F-A805-DB0891390594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799DE340-3C8E-489F-A805-DB0891390594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799DE340-3C8E-489F-A805-DB0891390594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799DE340-3C8E-489F-A805-DB0891390594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6A0DA6-614F-43C0-A777-9ABC2511C128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6A0DA6-614F-43C0-A777-9ABC2511C128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6A0DA6-614F-43C0-A777-9ABC2511C128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6A0DA6-614F-43C0-A777-9ABC2511C128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E83B5C1-AD4C-4424-BEF4-0A6A1D1DB11D}
+	EndGlobalSection
+EndGlobal
