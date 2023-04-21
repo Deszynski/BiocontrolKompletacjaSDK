@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Soneta.Sdk">
+  <PropertyGroup>
+    <TargetFramework>$(SonetaTargetFramework)</TargetFramework>
+    <UserSecretsId>25e57402-faa2-4ae1-84e9-d09bb7747b7f</UserSecretsId>
+    <SignAssembly>True</SignAssembly>
+    <DelaySign>True</DelaySign>
+    <PackAsTool>True</PackAsTool>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.101.0" />
+    <PackageReference Include="PresentationFramework" Version="4.6.0" />
+  </ItemGroup>
+</Project>
