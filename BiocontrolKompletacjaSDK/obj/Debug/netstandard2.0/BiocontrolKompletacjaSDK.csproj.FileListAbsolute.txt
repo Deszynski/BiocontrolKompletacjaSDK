@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BiocontrolKompletacjaSDK\bin\Debug\netstandard2.0\BiocontrolKompletacjaSDK.deps.json
+C:\Users\User\source\repos\BiocontrolKompletacjaSDK\bin\Debug\netstandard2.0\BiocontrolKompletacjaSDK.dll
+C:\Users\User\source\repos\BiocontrolKompletacjaSDK\bin\Debug\netstandard2.0\BiocontrolKompletacjaSDK.pdb
+C:\Users\User\source\repos\BiocontrolKompletacjaSDK\BiocontrolKompletacjaSDK\obj\Debug\netstandard2.0\BiocontrolKompletacjaSDK.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BiocontrolKompletacjaSDK\BiocontrolKompletacjaSDK\obj\Debug\netstandard2.0\BiocontrolKompletacjaSDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BiocontrolKompletacjaSDK\BiocontrolKompletacjaSDK\obj\Debug\netstandard2.0\BiocontrolKompletacjaSDK.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BiocontrolKompletacjaSDK\BiocontrolKompletacjaSDK\obj\Debug\netstandard2.0\BiocontrolKompletacjaSDK.AssemblyInfo.cs
+C:\Users\User\source\repos\BiocontrolKompletacjaSDK\BiocontrolKompletacjaSDK\obj\Debug\netstandard2.0\BiocontrolKompletacjaSDK.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BiocontrolKompletacjaSDK\BiocontrolKompletacjaSDK\obj\Debug\netstandard2.0\BiocontrolKompletacjaSDK.csproj.CopyComplete
+C:\Users\User\source\repos\BiocontrolKompletacjaSDK\BiocontrolKompletacjaSDK\obj\Debug\netstandard2.0\BiocontrolKompletacjaSDK.dll
+C:\Users\User\source\repos\BiocontrolKompletacjaSDK\BiocontrolKompletacjaSDK\obj\Debug\netstandard2.0\BiocontrolKompletacjaSDK.pdb
